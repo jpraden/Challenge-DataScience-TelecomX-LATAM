@@ -324,9 +324,6 @@ _____________________________________________________________________________
 
 A continuación, se presentan los resultados de los análisis realzidos, los cuales se visualizan en los siguientes gráficos:
 
-       -> Grafico1_RelacionTiemoContratoValorMensual.png
-       -> Grafico1_DistribucionGastoToal_Churn.png
-
 ![Gráfico1](/Graficos/Grafico1_Descriptivos.png)
 
 ![Gráfico2](/Graficos/Grafico2_Descriptivo2.png)
